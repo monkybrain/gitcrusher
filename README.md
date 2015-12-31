@@ -8,4 +8,4 @@ Version control for music producers
 * Minimalist alternative to full services such as blend.io and splice
 
 ### Status
-Idea.
+Idea
